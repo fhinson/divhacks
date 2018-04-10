@@ -1,4 +1,4 @@
-# Handwriting Digits - Easy or hard? An IBM DIV HACKS Project
+# Handwriting Digits - Easy or hard? An [IBM](https://www.ibm.com/us-en/) DIV HACKS Project
 
 ## Introduction
 This project is specifically designed for the [DIV HACKS for Columbia University](https://cu-divhacks.github.io/) on April 14, 2018.
@@ -59,4 +59,5 @@ Here are a few more things that you could do if you want to really challenge you
 
 7. Deploy the web page frontend to the [IBM Bluemix cloud](https://console.bluemix.net/catalog/) (using the free account) and let everyone else from the world to see your beautiful DIV HACKS results.  
 
-
+## Questions
+Please contact one of the onsite IBM technical mentors. Happy Hacking!
