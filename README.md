@@ -40,7 +40,7 @@ Here are a few tasks that you must do:
 
 2. Explore the dataset and report your findings using either data or plots to answer the following question: among 0 – 9, which digits are easier to predict than others? What could be the reasons in your opinion?
 
-3. Design and implement a binary classifier (EASY or HARD) for all MNIST training data using the above so-obtained labeled data -- while using the 10K test data for testing. Report your training and test accuracy. Please remember to use the validation set from your training data to tune your classifier as needed.
+3. Design and implement a binary classifier (EASY or HARD) for all MNIST training data using the above so-obtained labeled data -- while using the 10K test data for testing. Report your *training* and *test* accuracy. Please remember to use the *validation dataset* from your *training dataset* to tune your classifier as needed (but not using your *test dataset*). If you're hazy about the differences between *training*, *validation* and *test* datasets, please ask one of the technical mentors for clarification, or read this [Overstack article](https://stats.stackexchange.com/questions/19048/what-is-the-difference-between-test-set-and-validation-set).
 
 
 ### Advanced tasks (optional)
@@ -57,7 +57,7 @@ Here are a few more things that you could do if you want to really challenge you
 
 6. Build a web page frontend (hosted on your local machine) to display various findings from your results above. The quality of the web page and visualization should help to convey your message.
 
-7. Deploy the web page frontend to the [IBM Bluemix cloud](https://console.bluemix.net/catalog/) (using the free account) and let everyone else from the world to see your beautiful DIV HACKS results.  
+7. Discuss with technical mentors if you want to do more.
 
 ## Questions
-Please contact one of the onsite IBM technical mentors. Happy Hacking!
+Please contact one of the on-site IBM technical mentors. Happy Hacking!
