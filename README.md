@@ -59,5 +59,23 @@ Here are a few more things that you could do if you want to really challenge you
 
 7. Discuss with technical mentors if you want to do more.
 
+## What to submit at the end of hacking
+
+At the end of hacking, each team is required to submit the following materials to the IBM judges:
+
+- A link to your projects with completed source codes on [github.com](github.com), including  a README.md file that instructs people how to repeat your results (what steps to run in order to obtain results for which task).
+- A presentation file (either PPT or HTML or Words or PDF or whatever you like) that documents your findings, rationals, and conclusion. This should contain enough details for people to judge the quality of your final project deliverables.
+
+Some selected teams may be asked to make a presentation on their project findings as well. This will be decided after all submissions are done and before the final announcement of the winners.
+
+## Judging criteria
+
+Here are a few things we're looking for when judging the submissions:
+
+- The quality of codes to accomplish the tasks
+- The number of tasks accomplished
+- The quality of ways to show the task results - including convincing data, plots, visualization
+- The clarity of the presentation
+
 ## Questions
 Please contact one of the on-site IBM technical mentors. Happy Hacking!
