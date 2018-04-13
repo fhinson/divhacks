@@ -61,10 +61,14 @@ Here are a few more things that you could do if you want to really challenge you
 
 ## What to submit at the end of hacking
 
-At the end of hacking, each team is required to submit the following materials to the IBM judges:
+At the end of hacking, each team is required to submit the following materials to the IBM judges: 
 
-- A link to your projects with completed source codes on [github.com](github.com), including  a README.md file that instructs people how to repeat your results (what steps to run in order to obtain results for which task).
-- A presentation file (either PPT or HTML or Words or PDF or whatever you like) that documents your findings, rationals, and conclusion. This should contain enough details for people to judge the quality of your final project deliverables.
+- A link to your project repository with completed source codes on [github.com](github.com), including  a README.md file that instructs people how to repeat your results (what steps to run in order to obtain results for which task).
+- A presentation file (either PPT or HTML webpage or Words or PDF or whatever you like) that documents your findings, rationals, and conclusion. This should contain enough details for people to judge the quality of your final project deliverables. Please include your presentation file in your project repository. 
+
+The submission is done by creating a [new issue](https://github.com/JinjunXiong/divhacks/issues) within this DivHacks challenge's github repostiory. Name the title of the issue with your **team name**, and in the body of the issue, please include **name(s) of your team members** and the **link** to your project repository.
+
+Please check out [Github Pages](https://pages.github.com/) for ways to create a simple webpage to promote your project.
 
 Some selected teams may be asked to make a presentation on their project findings as well. This will be decided after all submissions are done and before the final announcement of the winners.
 
