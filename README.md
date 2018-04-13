@@ -68,6 +68,8 @@ At the end of hacking, each team is required to submit the following materials t
 
 The submission is done by creating a [new issue](https://github.com/JinjunXiong/divhacks/issues) within this DivHacks challenge's github repostiory. Name the title of the issue with your **team name**, and in the body of the issue, please include **name(s) of your team members** and the **link** to your project repository.
 
+A [sample submission issue](https://github.com/JinjunXiong/divhacks/issues/1) has been created for your reference. Please follow the same template. 
+
 Please check out [Github Pages](https://pages.github.com/) for ways to create a simple webpage to promote your project.
 
 Some selected teams may be asked to make a presentation on their project findings as well. This will be decided after all submissions are done and before the final announcement of the winners.
