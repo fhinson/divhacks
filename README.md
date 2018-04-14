@@ -85,7 +85,7 @@ Here are a few things we're looking for when judging the submissions:
 
 ## Prizes, Prizes, and Prizes
 
-Of course there will be prizes for the top winners! We will select **top 4 winners**, each of which will not only be awarded with an awesome IBM Watson [TJBot](https://ibmtjbot.github.io/) that you can do amazing things with using the latest AI technologies, but most importantly, a summer internship with our coolest [IBM T.J. Watson Research Center](http://www.research.ibm.com/labs/watson/index.shtml). Or if you're close to graduate, we'll arrange an onsite job interview for you.
+Of course there will be prizes for the top winners! We will select up to **top 4 winners**, each of which will not only be awarded with an awesome IBM Watson [TJBot](https://ibmtjbot.github.io/) that you can do amazing things with using the latest AI technologies, but most importantly, a summer internship with our coolest [IBM T.J. Watson Research Center](http://www.research.ibm.com/labs/watson/index.shtml). Or if you're close to graduate, we'll arrange an onsite job interview for you.
 
 ## Questions
 Please contact one of the on-site IBM technical mentors. Happy Hacking!
