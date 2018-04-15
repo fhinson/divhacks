@@ -1,6 +1,7 @@
 import numpy as np
 import math
 import itertools
+import pprint
 from matplotlib import pyplot as plt
 
 
@@ -1104,17 +1105,31 @@ if __name__ == "__main__":
     ############## Test Code ###############
     T = 0.5
 
-    TEST_DIGIT = 7
+    TEST_DIGIT = 4
     alg_set = pc_dataset[TEST_DIGIT]
 
     best_alg = ""
     best_alg_score = 0
 
     for alg in alg_set:
-      score = alg_set[alg]["total_correct"] / alg_set[alg]["total_observed"]
+      score = alg_set[alg]["total_correct"] / float(alg_set[alg]["total_observed"])
       if score > best_alg_score:
         best_alg = alg
 
     print best_alg
+
+    best_scores = []
+
+    for i in range(9):
+      score_set = []
+      alg_set = pc_dataset[i]
+      alg_score = 0
+      alg_set = pc_dataset[i]
+      for alg in alg_set:
+        score = alg_set[alg]["total_correct"] / float(alg_set[alg]["total_observed"])
+        score_set.append(score)
+      best_scores.append(score_set)
+
+    # print best_scores
 
     ## FOR A GIVEN TEST DIGIT, I'M ABLE TO PREDICT THE BEST ALGORITHM PERFORMANCE FOR THAT DIGIT
